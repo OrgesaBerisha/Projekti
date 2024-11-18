@@ -126,3 +126,11 @@ body {
    padding-top: 20px;
    margin-bottom: 20px;
 }
+
+/*Stilet per fotot e Category*/
+.container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   gap: 30px;
+}
