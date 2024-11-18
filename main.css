@@ -93,3 +93,22 @@ body {
 
 
 }
+
+.faqja1-description{
+   margin-top: 1rem;
+   font-size: 1.2rem;
+   color: #070606;
+   line-height: 1.5;
+
+}
+.faqja1-right{
+   flex: 1;
+   display: flex;
+   justify-content: center;
+}
+.faqja1-image img{
+   max-width: 100%;
+   height: auto;
+   border-radius: 10px;
+   
+}
